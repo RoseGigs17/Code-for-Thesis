@@ -2,7 +2,7 @@
 
 There are various pieces of code for this project and will be corresond to either Noise Power Spectrum (NPS) or Modulation Trasnfer Function (MTF) code.
 
-Code corresponding to NPS:
+**Code corresponding to NPS:**
 
 getFFTfrequency.m \part of source code 
 
@@ -18,7 +18,7 @@ nps_nmr_cfr.m \calculation of noise magntitude ratio and central frequency ratio
 
 plot_antrho_test.m \NPS for an anthropomorphic pahntom
 
-Code corresponding to MTF: 
+**Code corresponding to MTF:**
 
 mtf_func_vers.m \calculates and graphs the MTF
 
