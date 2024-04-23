@@ -13,6 +13,11 @@
 % Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
 % Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050018", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0018", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020018"];
 
+% 90% AI, 90% IR, FBP, 60% AI
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050018", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0018", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020018", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040018"];
+
+
 % % 21 cm % % 
 % 30%
 % Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
@@ -63,9 +68,32 @@
 % Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020109"];
 
 % 90%
-Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
-Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020109"];
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020109"];
 
+% 90% AI, 90% IR, FBP, 60% AI
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020109", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040109"];
+
+% all them at 16 cm
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050018", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0018", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020018", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040018", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0018", "Mercury4/Neusoft AI Mercury4 Image Data/00010003/D00030018", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0006/D0018"];
+
+% all them at 21 cm
+Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050043", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0043", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020043", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040043", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0043", "Mercury4/Neusoft AI Mercury4 Image Data/00010003/D00030043", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0006/D0043"];
+
+% all them at 26 cm
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050069", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0069", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020069", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040069", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0069", "Mercury4/Neusoft AI Mercury4 Image Data/00010003/D00030069", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0006/D0069"];
+
+% all them at 31 cm
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050080", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0080", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020080", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040080", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0080", "Mercury4/Neusoft AI Mercury4 Image Data/00010003/D00030080", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0006/D0080"];
+
+% all them at 36 cm
+% Path = '/Users/rosegigliotti/Documents/Grad School Stuff/Research/RESEARCH/';
+% Files = ["Mercury4/Neusoft AI Mercury4 Image Data/00010005/D00050109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0008/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010002/D00020109", "Mercury4/Neusoft AI Mercury4 Image Data/00010004/D00040109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0007/D0109", "Mercury4/Neusoft AI Mercury4 Image Data/00010003/D00030109", "ClearView_Iterative_Recon_Test/MercuryPhantomclearview/PAT000_2/S0006/D0109"];
 
 %large ROI
 % ROI = [200,210,320,330]; %[xmin ymin (xmin+xmax) (ymin+ymax)]
@@ -84,7 +112,8 @@ ROI_display = [270, 266, 50, 50] %[xmin ymin xmax ymax]
 % ROI_display = [250, 266, 50, 50] %[xmin ymin xmax ymax]
 
 
-recon = ["AI","IR", "FBP"]
+% recon = ["AI","IR", "FBP"]
+recon = ["90% AI" "90% IR" "FBP" "60% AI" "60% IR" "30% AI" "30% IR"];
 % dia = [16,21,26,31,36]
 psize = [0.7832, 0.7832];             % pixel 
 ny = 1./(2*psize);              % Nyquist frequency
@@ -108,11 +137,11 @@ end
 %  rectangle('Position',ROI_display, 'EdgeColor', 'r', 'LineWidth', 2);
 %  hold off;
 
-plot(X,Y,'LineWidth',1.5);
-legend(leg);
-ylabel('NPS [mm^2HU^2]');
-xlabel('Spatial Frequency [mm^-^1]');
-title('NPS - 90% Comparison - 36 cm');
+plot(X,Y,'LineWidth',2);
+legend(leg,'FontSize', 16);
+ylabel('\fontsize{16}NPS [mm^2HU^2]');
+xlabel('\fontsize{16}Spatial Frequency [mm^-^1]');
+title('\fontsize{18}NPS - 21 cm');
 xlim([0 1])
 
 function [f, nps, noise, fpeak, fav] = npsplot(I,ROIs,psize,varargin)
